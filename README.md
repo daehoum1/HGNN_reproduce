@@ -1,1 +1,1 @@
-# HGNN_reproduce
+SNU GCN Class, Final Report
