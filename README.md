@@ -1,6 +1,6 @@
 SNU GCN Class, Final Report. 2019-21762 Daeho Um.
 
-Hyper graph Neural Networks.
+Hypergraph Neural Networks.
 Yifan Feng et al. AAAI 2019.
 
 
